@@ -1,0 +1,141 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsAppWeatherForecast.WindowsForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">f9a5f827-d5fe-4a3d-b4e6-703f49a4a6c7</Value>
+    </Setting>
+    <Setting Name="BaseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:5209</Value>
+    </Setting>
+    <Setting Name="AllSynopticDataEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/alldata</Value>
+    </Setting>
+    <Setting Name="TownsListEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/towns</Value>
+    </Setting>
+    <Setting Name="FullInfoTab" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pełna informacja</Value>
+    </Setting>
+    <Setting Name="TownInfoTab" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wybrane miasto</Value>
+    </Setting>
+    <Setting Name="PolandMapTab" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mapa Polski</Value>
+    </Setting>
+    <Setting Name="ActionMenu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Akcja</Value>
+    </Setting>
+    <Setting Name="AuthorMenu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">O autorze</Value>
+    </Setting>
+    <Setting Name="ExitMenu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wyjście</Value>
+    </Setting>
+    <Setting Name="GetFullDataButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pobierz aktualne informacje pogodowe</Value>
+    </Setting>
+    <Setting Name="ChooseTownLabel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wybierz miasto</Value>
+    </Setting>
+    <Setting Name="AllDataTownEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/alldatatown</Value>
+    </Setting>
+    <Setting Name="SynopticDataUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/api/synopticdata</Value>
+    </Setting>
+    <Setting Name="AllDataTownsEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/alldatatowns</Value>
+    </Setting>
+    <Setting Name="TownsTemperaturesEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/townstemperatures</Value>
+    </Setting>
+    <Setting Name="TownsPressuresEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/townspressures</Value>
+    </Setting>
+    <Setting Name="TownsHumiditiesEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/townshumidities</Value>
+    </Setting>
+    <Setting Name="ServerStatusEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/serverstatus</Value>
+    </Setting>
+    <Setting Name="ServerPingEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/ping</Value>
+    </Setting>
+    <Setting Name="AccesUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/api/access</Value>
+    </Setting>
+    <Setting Name="GetTemperaturesDataButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Temperatura</Value>
+    </Setting>
+    <Setting Name="GetPressuresDataButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ciśnienie</Value>
+    </Setting>
+    <Setting Name="GetHumidityDataButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wilgotność</Value>
+    </Setting>
+    <Setting Name="AppTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pogoda INFO</Value>
+    </Setting>
+    <Setting Name="LoadDataLabel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wczytaj aktualne dane</Value>
+    </Setting>
+    <Setting Name="CheckingAccess" Type="System.String" Scope="User">
+      <Value Profile="(Default)">...sprawdzanie dostępu</Value>
+    </Setting>
+    <Setting Name="AuthorLabel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Autor: Łukasz Krzos</Value>
+    </Setting>
+    <Setting Name="MessagePingError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Błąd sprawdzania pingu</Value>
+    </Setting>
+    <Setting Name="MessageAvibilityError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Błąd sprawdzania dostępności</Value>
+    </Setting>
+    <Setting Name="MessageServerNotResponse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Serwer pogodowy nie jest dostępny! Spróbuj później!</Value>
+    </Setting>
+    <Setting Name="MessageGetSynopticDataError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Błąd pobierania danych synoptycznych</Value>
+    </Setting>
+    <Setting Name="MessageDataDeserializationError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Błąd deserializacji danych!</Value>
+    </Setting>
+    <Setting Name="MessageNotDataFound" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Brak danych.</Value>
+    </Setting>
+    <Setting Name="AuthorInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Autorem aplikacji jest Łukasz Krzos. Może chesz go wesprzeć?</Value>
+    </Setting>
+    <Setting Name="HappyFace" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dziękuję :)</Value>
+    </Setting>
+    <Setting Name="SadFace" Type="System.String" Scope="User">
+      <Value Profile="(Default)">:(</Value>
+    </Setting>
+    <Setting Name="ExitInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Czy na pewno chcesz wyjść z aplikacji?</Value>
+    </Setting>
+    <Setting Name="ActualizationData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data aktualizacji</Value>
+    </Setting>
+    <Setting Name="LoadDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data odczytu</Value>
+    </Setting>
+    <Setting Name="TemperatudeLoaded" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wczytano temperaturę.</Value>
+    </Setting>
+    <Setting Name="PressureLoaded" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wczytano ciśnienie.</Value>
+    </Setting>
+    <Setting Name="HumidityLoaded" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wczytano wilgotność.</Value>
+    </Setting>
+    <Setting Name="MessageServerNotWorks" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Serwer pogodowy nie odpowiada!</Value>
+    </Setting>
+    <Setting Name="ServerStatusOk" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OK</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
